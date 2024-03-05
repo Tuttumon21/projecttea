@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Tuttumon21/projecttea/issues"
   },
+  "publishConfig": {
+    "@Tuttumon21:registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/Tuttumon21/projecttea#readme"
 }
