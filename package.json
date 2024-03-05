@@ -1,0 +1,19 @@
+{
+  "name": "projecttea",
+  "version": "1.0.0",
+  "description": "tea project for package testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tuttumon21/projecttea.git"
+  },
+  "author": "rakeshkr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tuttumon21/projecttea/issues"
+  },
+  "homepage": "https://github.com/Tuttumon21/projecttea#readme"
+}
